@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Valentin Ritzenthaler"
   avatar           : "images/bio-photo.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am Valentin, I am a french student at the University of Strasbourg.\n I am currently ending my Master degree in applied mathematics"
+  bio              : "French student at the University of Strasbourg.\n I am currently ending my Master degree in applied mathematics."
   location         : "France"
   email            :
   links:
