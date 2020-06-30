@@ -1,6 +1,5 @@
 ---
 title: "A projects"
-permalink: /machinelearning/post1/
 date: 2018-01-28
 mathjax: "true"
 ---
