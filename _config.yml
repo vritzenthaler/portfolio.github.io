@@ -12,11 +12,11 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Valentin Ritzenthaler"
+title                    : "Engineer Portfolio"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Valentin Ritzenthaler"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Valentin Ritzenthaler"
   avatar           : "images/bio-photo.png"
-  bio              : "French student at the University of Strasbourg.\n I am currently ending my Master degree in applied mathematics."
+  bio              : "French student at the University of Strasbourg.\n I am currently ending my master degree in applied mathematics."
   location         : "France"
   email            :
   links:
