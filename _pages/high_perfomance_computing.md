@@ -1,8 +1,6 @@
 ---
-layout: archive
-permalink: /high-performance-computing/
 title: "High Performance Computing"
-author_profile: true
+permalink: /high-performance-computing/
 ---
 
 Work in progress.
