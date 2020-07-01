@@ -7,4 +7,4 @@ author_profile: true
 
 # H2 First project
 
-Work in progress: What about a [link](https://vritzenthaler.github.io/portfolio.github.io/project1/)?
+[link to the first project](https://vritzenthaler.github.io/portfolio.github.io/project1/)?
