@@ -4,9 +4,9 @@ main:
     url: /machinelearning/
   - title: "High Performance Computing"
     url: /hpc/
-  - title: "project1"
-    url: /project1/
-    hidden: true
+  # - title: "project1"
+  #   url: /project1/
+  #   hidden: true
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
