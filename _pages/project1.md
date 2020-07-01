@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /hpc/project1/
+permalink: /project1/
 title: "Project 1"
 author_profile: true
 mathjax: "true"
