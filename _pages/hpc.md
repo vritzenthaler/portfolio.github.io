@@ -1,11 +1,9 @@
 ---
 layout: archive
 permalink: /hpc/
-#title: "High Performance Computing projects"
+title: "High Performance Computing projects"
 author_profile: true
 ---
-
-# H1 High Performance Computing projects
 
 Work in progress
 
@@ -19,6 +17,6 @@ posuere ac congue et, dignissim vel arcu. Etiam sagittis ut nulla aliquet porta.
 Proin auctor, odio in aliquet posuere, orci tellus maximus nulla, ut porta lacus quam ut purus.
 
 
-## H2 Project 1: Heat equation control
+## Project 1: Heat equation control
 
 [link to the first project](https://vritzenthaler.github.io/portfolio.github.io/project1/)
