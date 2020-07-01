@@ -1,9 +1,11 @@
 ---
 layout: archive
 permalink: /hpc/
-title: "High Performance Computing projects"
+#title: "High Performance Computing projects"
 author_profile: true
 ---
+
+# H1 High Performance Computing projects
 
 Work in progress
 
