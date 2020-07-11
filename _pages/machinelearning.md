@@ -4,16 +4,16 @@ permalink: /machinelearning/
 title: "Machine Learning projects"
 author_profile: true
 gallery:
-  - url: /assets/images/cpp_proj1.jpg
-    image_path: /assets/images/cpp_proj1.jpg
+  - url: /assets/images/cpp_proj1.png
+    image_path: /assets/images/cpp_proj1.png
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: /assets/images/cpp_proj2.jpg
-    image_path: /assets/images/cpp_proj2.jpg
+  - url: /assets/images/cpp_proj2.png
+    image_path: /assets/images/cpp_proj2.png
     alt: "placeholder image 2"
     title: "Image 2 title caption"
-  - url: /assets/images/cpp_proj3.jpg
-    image_path: /assets/images/cpp_proj3.jpg
+  - url: /assets/images/cpp_proj3.png
+    image_path: /assets/images/cpp_proj3.png
     alt: "placeholder image 3"
     title: "Image 3 title caption"
 ---
