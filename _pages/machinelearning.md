@@ -4,8 +4,8 @@ permalink: /machinelearning/
 title: "Machine Learning projects"
 author_profile: true
 gallery:
-  - url: /assets/images/cpp_proj1.png
-    image_path: /assets/images/cpp_proj1.png
+  - url: /assets/images/myAnimation.gif
+    image_path: /assets/images/myAnimation.gif
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: /assets/images/cpp_proj2.png
